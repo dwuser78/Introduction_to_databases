@@ -1,0 +1,4 @@
+*.sql linguist-detectable=true
+*.xlsx linguist-detectable=false
+*.pdf linguist-detectable=false
+*.md linguist-detectable=false
